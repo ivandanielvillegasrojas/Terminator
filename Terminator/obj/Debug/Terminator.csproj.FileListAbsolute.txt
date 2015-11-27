@@ -1,0 +1,14 @@
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\Terminator.exe
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\Terminator.pdb
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\OpenTK.Compatibility.dll
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\OpenTK.dll
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\OpenTK.GLControl.dll
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\OpenTK.GLControl.xml
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\OpenTK.xml
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\bin\Debug\OpenTK.Compatibility.xml
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\obj\Debug\ResolveAssemblyReference.cache
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\obj\Debug\Terminator.Terminator.resources
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\obj\Debug\Terminator.Properties.Resources.resources
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\obj\Debug\Terminator.csproj.GenerateResource.Cache
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\obj\Debug\Terminator.exe
+E:\Documentos\Documents\IUA\Computación gráfica y Ambientes Virtuales\Trabajos Practicos\Terminator\Codigo\Terminator\obj\Debug\Terminator.pdb
